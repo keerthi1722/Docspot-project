@@ -1,2 +1,2 @@
 # Docspot-project
-Doctoe Appointment Booking website
+Doctor Appointment Booking website
